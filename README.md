@@ -131,7 +131,7 @@ Please refer to [GETTING_STARTED.md](OpenPCDet/docs/GETTING_STARTED.md) to learn
 
 ## License
 
-`OpenPCDet` is released under the [Apache 2.0 license](LICENSE).
+`RM3D` is released under the [MIT license](LICENSE).
 
 <!-- ## Other -->
 
