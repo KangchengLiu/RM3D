@@ -7,12 +7,8 @@
 
 ## News
 
-* **20 November 2022**: Main Codes and models released!
+* **20 November 2022**: All main Codes and models are released!
 
-
-## Abstract
-
-* **20 November 2022**: Main Codes and models released!
 
 ## Code structure
 Our RM3D adapts the structure of the codebase [Mix3D](https://github.com/kumuji/mix3d) which provides a highly modularized framework for 3D Semantic Segmentation based on the MinkowskiEngine.
@@ -90,12 +86,12 @@ python datasets/preprocessing/s3dis_preprocessing.py preprocess \
 --save_dir="../../data/processed/s3dis"
 ```
 
-#### STPLS3D
+<!-- #### STPLS3D
 ```
 python datasets/preprocessing/stpls3d_preprocessing.py preprocess \
 --data_dir="PATH_TO_STPLS3D" \
 --save_dir="../../data/processed/stpls3d"
-```
+``` -->
 
 ### Training and testing 
 Train RM3D on the ScanNet dataset:
