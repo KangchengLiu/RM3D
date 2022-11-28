@@ -139,9 +139,9 @@ Please refer to [GETTING_STARTED.md](OpenPCDet/docs/GETTING_STARTED.md) to learn
 
 ## Contact
 
-For Questions regarding the 3D object detction code of our RM3D Please contact email (kcliuntu@gmail.com or kcliu@gmail.com). 
+For Questions regarding the 3D smenatic segmentation, 3D instance segmentation, and 3D object detction codes of our RM3D, please contact through email (kcliuntu@gmail.com or kcliu@gmail.com). 
 
 
-# If you find our work helpful, please feel free to give a star to this repo!
+## If you find our work helpful, please feel free to give a star to this repo!
 
 
